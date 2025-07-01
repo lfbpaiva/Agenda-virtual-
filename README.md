@@ -67,21 +67,21 @@ Acesse a aplicação em:
 📍 http://localhost:5173
 ```
 
-####📄 Variáveis de Ambiente
+###📄 Variáveis de Ambiente
 
 Crie um arquivo .env na pasta backend/ com o conteúdo:
 
-DATABASE_URL="postgresql://USUARIO:SENHA@localhost:5432/agenda_db?schema=public"
+```DATABASE_URL="postgresql://USUARIO:SENHA@localhost:5432/agenda_db?schema=public"```
 
 ⚠️ Nunca envie o arquivo .env para o GitHub.
 
 ---
 
-✅ Funcionalidades
-✅ Adicionar novo evento com data e hora
-✅ Listar todos os eventos
-✅ Editar ou excluir eventos
-✅ Interface simples e direta
+### Funcionalidades
+✅ Adicionar novo evento com data e hora;
+✅ Listar todos os eventos;
+✅ Editar ou excluir eventos;
+✅ Interface simples e direta.
 
 📌 Autor
 Desenvolvido por [@lfbpaiva](https://github.com/lfbpaiva) 💜
