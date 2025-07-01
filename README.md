@@ -77,13 +77,14 @@ Crie um arquivo .env na pasta backend/ com o conteúdo:
 
 ---
 
-### Funcionalidades
+## ✅ Funcionalidades
 
-✅ Adicionar novo evento com data e hora;
-✅ Listar todos os eventos;
-✅ Editar ou excluir eventos;
-✅ Interface simples e direta.
+- Adicionar novo evento com data e hora ✅  
+- Listar todos os eventos ✅  
+- Editar ou excluir eventos ✅  
+- Interface simples e direta ✅  
 
-📌 Autor
+
+## 📌 Autor
 Desenvolvido por [@lfbpaiva](https://github.com/lfbpaiva) 💜
 
