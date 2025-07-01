@@ -67,7 +67,7 @@ Acesse a aplicação em:
 📍 http://localhost:5173
 ```
 
-###📄 Variáveis de Ambiente
+## 📄 Variáveis de Ambiente
 
 Crie um arquivo .env na pasta backend/ com o conteúdo:
 
@@ -78,6 +78,7 @@ Crie um arquivo .env na pasta backend/ com o conteúdo:
 ---
 
 ### Funcionalidades
+
 ✅ Adicionar novo evento com data e hora;
 ✅ Listar todos os eventos;
 ✅ Editar ou excluir eventos;
